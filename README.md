@@ -97,7 +97,6 @@ For the navigation, you should use React Router.
 
 ## Recommendations
 
-* Write tests! Please make tests ... we appreciate tests <3... tests make the world better;
 * Use programming good practices;
 * Upload all the codebase in a public repo in your github account
 * Use [git best practices](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/best-practices), with clear messages (written in English);
