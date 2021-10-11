@@ -70,7 +70,7 @@ Use a nice design/layout/interface (you can use a design/UI library like Bootstr
 
 There should also be a "statistics" page where you should report some useful summary and plot some interesting charts with one chart library of your choice.
 
-You don't need to use React for this assignment, you can either use Local Storage or Context API to store the data, if needed.
+You don't need to use Redux for this assignment, you can either use Local Storage or Context API to store the data, if needed.
 
 For the navigation, you should use React Router.
 
